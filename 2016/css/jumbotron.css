@@ -2,3 +2,14 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+.logo {
+  max-width: 200px;
+}
+
+.sponsor h2 {
+  font-size: 1.5em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
