@@ -1,4 +1,11 @@
-body {
+/*body {
   padding-top: 50px;
   padding-bottom: 20px;
+}*/
+
+#introjumbo {
+    background-image: url(http://2015.pycon.hk/images/cyberport-back.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
 }
