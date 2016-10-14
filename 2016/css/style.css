@@ -1,0 +1,23 @@
+.logo {
+  max-width: 200px;
+}
+
+.sponsor h2 {
+  font-size: 1.25em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+
+.venue, .patron {
+  font-size: 18px;
+}
+
+
+.pycon_background {
+  background-image: url(http://2015.pycon.hk/images/cyberport-back.jpg);
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: fixed;
+}
