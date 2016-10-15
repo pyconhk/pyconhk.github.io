@@ -14,11 +14,13 @@ body, :root {
   font-weight: 500;
 }
 
-
 .venue, .patron {
   font-size: 18px;
 }
 
+.image_margin {
+  margin: 10px, 10px;
+}
 
 .pycon_background {
   background-image: url(http://2015.pycon.hk/images/cyberport-back.jpg);
@@ -31,6 +33,40 @@ body, :root {
   text-align: justify;
 }
 
+.cyberport_logo_dim, .ms_logo_dim  {
+  width: 132px;
+  height: 46px;
+}
+
+.psf_logo_dim {
+  width: 132px;
+  height: 43px;
+}
+
+.gandi_logo_dim {
+  width: 132px;
+  height: 41px;
+}
+
+.jb_logo_dim {
+  width: 132px;
+  height: 76px;
+}
+
+.fca_logo_dim {
+  width: 132px;
+  height: 60px;
+}
+
+.cota_logo_dim {
+  width: 60px;
+  height: 44px;
+}
+
+.hkoscon_logo_dim {
+  width: 160px;
+  height: 36px;
+}
 
 .progress {
     height: 30px;
