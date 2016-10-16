@@ -77,6 +77,13 @@ body, :root {
   padding-bottom: 20px;
 }
 
+.bottom_social_media {
+  font-size: 26px;
+  margin-left: 1em;
+  margin-right: 1em;
+  padding: 5px;
+}
+
 .progress {
     height: 30px;
     margin-bottom: 20px;
