@@ -80,6 +80,7 @@ body, :root {
 .bottom_social_media {
   font-size: 26px !Important;
   padding: 5px 5px 5px 0px;
+  text-decoration: none !Important;
 }
 
 .progress {
