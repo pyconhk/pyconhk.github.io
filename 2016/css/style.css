@@ -35,7 +35,7 @@ body, :root {
 
 .cyberport_logo_dim, .ms_logo_dim  {
   width: 132px;
-  height: 46px;
+  height: 73px;
 }
 
 .psf_logo_dim {
@@ -56,6 +56,16 @@ body, :root {
 .fca_logo_dim {
   width: 132px;
   height: 60px;
+}
+
+.mysql_logo_dim {
+  width: 132px;
+  height: 73px;
+}
+
+.ibm_logo_dim {
+  width: 132px;
+  height: 49px;
 }
 
 .cota_logo_dim {
