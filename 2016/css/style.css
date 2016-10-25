@@ -98,6 +98,10 @@ body, :root {
   text-decoration: none !Important;
 }
 
+.heidi_pic_width {
+   max-width: 350px;
+}
+
 .progress {
     height: 30px;
     margin-bottom: 20px;
