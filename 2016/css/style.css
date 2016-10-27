@@ -62,8 +62,8 @@ table td {
 }
 
 .cyberport_logo_dim, .ms_logo_dim  {
-    width: 132px;
-    height: 73px;
+    width: 200px;
+    height: 97px;
 }
 
 .ms_logo_dim  {
@@ -109,6 +109,11 @@ table td {
 .hkoscon_logo_dim {
     width: 160px;
     height: 36px;
+}
+
+.ga_logo_dim {
+  width: 100px;
+  height: 100px;
 }
 
 .time {
